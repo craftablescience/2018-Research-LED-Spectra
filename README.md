@@ -1,9 +1,15 @@
+# 2018 Research - Original Files
+
+**These files are unmodified from the last day at my internship. The following is a guide I left to anyone wanting to recreate my work.**
+
+---
+
 Welcome, future starter!
 
 In this guide I will tell you how to continue my work in the magical and mysterious world of LEDs.
 First you'll need to know how to set up your workspace.
 
---- MATERIALS ---
+## MATERIALS
 
 You will need the stuff in the top right drawer in my previous workspace. There will be two cardboard boxes:
 one with a FRAGILE NONBENDABLE SHATTERABLE FIBERGLASS cord which you don't want to
@@ -20,7 +26,7 @@ Open both and take out:
 - The cabinet (a large box with a snaplock)
 - Assorted wires
 
---- SETUP ---
+## SETUP
 
 Take the long end of the big black wire, and put it into the black receptacle in the resistance board.
 The other end clips onto the negative side of the 9-volt battery (the indented side, not the raised side).
@@ -34,9 +40,9 @@ with the arrows facing away from the white sun image. Take the other end, and pu
 stand you set up earlier (pole with adapter on top screws into heavy cube thing). Take all this, and put it into the
 cabinet.
 
---- CONCLUSION ---
+## CONCLUSION
 
 Well. You're done with setup!
 My project was about how LEDs all had unique spectra.
-You can read more in the "/Documents" folder.
+You can read more in the `Documents` folder.
 Feel free to look through all my files.
